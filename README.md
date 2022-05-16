@@ -1,2 +1,2 @@
 # habitLogger
-Android app to track and log tasks/ habits
+Android app to track and log tasks/ habits.
